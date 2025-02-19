@@ -24,4 +24,4 @@ jobs:
         run: bundle exec jekyll build
 
       - name: Deploy to GitHub Pages
-        run: ./deploy.sh  # Run your deploy.sh script
+        run: ./deploy  # Run your deploy.sh script

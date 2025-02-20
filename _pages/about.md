@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am Haobo LI (李昊波), a year-3 Ph.D. candidate at [HKUST VisLab](http://vis.cse.ust.hk/), Department of Computer Science and Engineering, [Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/), supervised by Prof. [Huamin Qu](http://www.huamin.org/). Before joining HKUST, I obtained my M.S. and B.S. degrees from Shanghai Jiao Tong University and the South China University of Technology, respectively. I also have industry experience from working at Intel for more than two years.
 
-My research interests lie in interdisciplinary studies encompassing **data visualization** and the **alignment of multimodal** climate-related data using LMs within the context of **digital twin**.
+My research interests lie in interdisciplinary studies encompassing **data visualization** and the **alignment of multimodal** climate-related data using MLLMs within the context of **digital twin**.
 
 I welcome any ideas or collaborative projects related to my research interests. Please feel free to reach out to me via email.
 
